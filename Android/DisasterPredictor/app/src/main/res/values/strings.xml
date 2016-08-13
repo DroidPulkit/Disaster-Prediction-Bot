@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Disaster Predictor</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello!</string>
+    <string name="slide_1_desc">Disaster Predictor on the Go!</string>
+
+    <string name="slide_2_title">Always stay safe</string>
+    <string name="slide_2_desc">Now alaways stay safe even in case of natural calamities</string>
+
+    <string name="slide_3_title">Disaster Predictor</string>
+    <string name="slide_3_desc">Your easy to use Disaster Predictor</string>
+    <string-array name="spinner">
+        <item>Bangalore</item>
+        <item>Chennai</item>
+        <item>Mumbai</item>
+        <item>Kolkata</item>
+        <item>Guwahati</item>
+        <item>Bhubaneshwar</item>
+        <item>Patna</item>
+        <item>Haridwar</item>
+    </string-array>
+</resources>
